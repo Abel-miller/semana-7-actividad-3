@@ -1,8 +1,5 @@
 El propósito general podría ser una aplicación simple que demuestra la navegación entre diferentes pantallas en Flutter, utilizando setState para gestionar el estado compartido del contador entre las pantallas. 
 La aplicación muestra cómo actualizar y sincronizar el estado a través de las diferentes pantallas al interactuar con los botones de incremento.
-Este es un ejemplo básico, y el propósito real de tu aplicación dependerá de los detalles específicos y las características adicionales que planees agregar. 
-Ajusta la descripción del propósito de tu aplicación según las necesidades y la funcionalidad exacta que estás implementando.
-
 
 Flutter que consta de tres pantallas:
 

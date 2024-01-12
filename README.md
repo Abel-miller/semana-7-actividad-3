@@ -7,15 +7,14 @@ Ajusta la descripción del propósito de tu aplicación según las necesidades y
 Flutter que consta de tres pantallas:
 
 Página Principal:
-
 Muestra un contador inicializado en 1.
 Contiene dos botones que llevan a "Pantalla A" y "Pantalla B".
 Tiene un botón adicional con un símbolo "+" que incrementa el contador y refleja ese cambio en la interfaz de usuario.
-Pantalla A:
 
+Pantalla A:
 Muestra el valor actual del contador recibido de la "Página Principal".
 Contiene un botón con un símbolo "+" que, al presionarse, incrementa el contador y lo refleja en la "Página Principal".
-Pantalla B:
 
+Pantalla B:
 Similar a "Pantalla A", muestra el valor actual del contador recibido de la "Página Principal".
 Contiene un botón con un símbolo "+" que, al presionarse, incrementa el contador y lo refleja en la "Página Principal".
